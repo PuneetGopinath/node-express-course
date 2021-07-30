@@ -1,0 +1,21 @@
+{
+  "name": "express-course",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PuneetGopinath/node-express-course.git"
+  },
+  "keywords": [],
+  "author": "PuneetGopinath",
+  "license": "LGPL-2.1-only",
+  "bugs": {
+    "url": "https://github.com/PuneetGopinath/node-express-course/issues"
+  },
+  "homepage": "https://github.com/PuneetGopinath/node-express-course#readme"
+}
